@@ -27,3 +27,6 @@ This repository contains python and bash scripts designed to automate the proces
    ```bash
    python full_automation.py
    
+## Simulation
+
+![](https://github.com/gowrysailajav/learn_as_you_go/blob/main/simulation.gif)
