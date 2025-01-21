@@ -2,14 +2,6 @@
 
 This repository contains python and bash scripts designed to automate the process of running Python experiments. The script executes a series of **pre-scripts**, followed by the main experimental scripts multiple times, and concludes with **post-scripts** for analysis or cleanup.
 
-## Table of Contents
-
-- [Features](#features)
-- [Script Workflow](#script-workflow)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Dependencies](#dependencies)
-
 ---
 
 ## Script Workflow
@@ -31,4 +23,7 @@ This repository contains python and bash scripts designed to automate the proces
 1. Clone this repository:
    ```bash
    git clone https://github.com/gowrysailajav/learn_as_you_go.git
+2. Run full_automation.py
+   ```bash
+   pyton full_automation.py
    
