@@ -12,16 +12,6 @@ This repository contains python and bash scripts designed to automate the proces
 
 ---
 
-## Features
-
-- Sequential execution of pre-scripts to set up the experimental environment.
-- Concurrent execution of main experimental scripts for efficiency.
-- Post-scripts for analysis or logging after the experiments.
-- Configurable number of runs for the main experiments.
-- Logging and status updates printed to the console for easy monitoring.
-
----
-
 ## Script Workflow
 
 1. **Pre-Scripts**: 
@@ -40,5 +30,5 @@ This repository contains python and bash scripts designed to automate the proces
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/gowrysailajav/learn_as_you_go.git
+   
