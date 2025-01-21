@@ -25,5 +25,5 @@ This repository contains python and bash scripts designed to automate the proces
    git clone https://github.com/gowrysailajav/learn_as_you_go.git
 2. Run full_automation.py
    ```bash
-   pyton full_automation.py
+   python full_automation.py
    
