@@ -30,3 +30,7 @@ This repository contains python and bash scripts designed to automate the proces
 ## Simulation
 
 ![](https://github.com/gowrysailajav/learn_as_you_go/blob/main/simulation.gif)
+
+
+## Note : 
+version >= Python 3.9.13
