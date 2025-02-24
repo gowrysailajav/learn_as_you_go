@@ -36,7 +36,7 @@ run_scripts_sequentially() {
     do
         echo "Running script: $script"
         eval "python $script" &
-        sleep 20
+        sleep 100
     done
 }
 
